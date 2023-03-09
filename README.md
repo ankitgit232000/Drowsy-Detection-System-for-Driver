@@ -25,7 +25,7 @@ You need to have Python installed on your system, then using pip, you can instal
 
     With a webcam, we will take images as input.
 
-📌 Detect Face in the Image and Create a Region of Interest (ROI)
+📌 Detect Face in the Image and Create a Region of Interest (ROI).
 
     To detect the face in the image 
     we need to first convert the image into grayscale as the OpenCV 
